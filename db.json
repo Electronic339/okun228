@@ -1,0 +1,31 @@
+{
+    "users":[
+{
+    "id": 52,
+    "name": "okunok",
+    "surname": "Kyivenkochervak",
+    "photo": "https://nordica.com.ua/image/cache/catalog/products/riba/riba-stolovih-sortov/krasniy-okun/okun-bez-golovy-s-m-1500x1000-product_popup.jpg",
+    "balance": 1488
+}
+
+    ]
+    "users":{
+        "id":14,
+        "name": "Igor",
+        "surname": "Malimon",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4a3QnXIwLO-JdI4NovXVCcU7XEWXlX1nnXA&s",
+        "balance": 111111
+
+    }
+},
+"products":[
+    {
+        "kovbasa"
+        "okun"
+        "salat"
+        
+        "prime"
+        "kvas"
+        "lapka"
+    }
+]
