@@ -1,47 +1,46 @@
-{ "users": [
+{ 
+   "products": [
     {
         "id": 1,
-        "name": "Andriy",
-        "sirname": "Moskalenko",
-        "photo_url": "https://raw.githubus...",
-        "balance": 1500
+        "name": "donut",
+        "sirname": "shovel",
+        "photo_url": "https://www.meme-arsenal.com/memes/27b4132f9340b0951ef3be17c155c773.jpg",
+        "price": 45
     },
     {
         "id": 2,
-        "name": "Vova",
-        "sirname": "Petrenko",
-        "photo_url": "https://raw.githubus...",
-        "balance": 500
+        "name": "lays",
+        "sirname": "selderey",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 60
     },
     {
         "id": 3,
-        "name": "Andriy",
-        "sirname": "Moskalenko",
-        "photo_url": "https://raw.githubus...",
-        "balance": 1500
-    }
-   ],
-   "products": [
-    {
-        "id": 3,
-        "name": "lays",
-        "sirname": "crips",
-        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
-        "price": 600
+        "name": "lego 42055",
+        "sirname": "persik",
+        "photo_url": "https://hotline.ua/img/tx/239/2396340755.jpg",
+        "price": 20000
     },
     {
         "id": 4,
-        "name": "lays",
-        "sirname": "crips",
-        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
-        "price": 600
+        "name": "donut",
+        "sirname": "shovel",
+        "photo_url": "https://www.meme-arsenal.com/memes/27b4132f9340b0951ef3be17c155c773.jpg",
+        "price": 45
     },
     {
         "id": 5,
         "name": "lays",
-        "sirname": "crips",
+        "sirname": "selderey",
         "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
-        "price": 600
+        "price": 60
+    },
+    {
+        "id": 6,
+        "name": "lego 42055",
+        "sirname": "persik",
+        "photo_url": "https://hotline.ua/img/tx/239/2396340755.jpg",
+        "price": 20000
     }
    ]
 }
