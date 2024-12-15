@@ -2,6 +2,8 @@ let productsGrid = document.getElementById('products-grid');
 let productsArray = [];
 let xhr = new XMLHttpRequest();
 let url = 'https://my-json-server.typicode.com/Electronic339/okun228';
+let cartProd = document.getElementById('cart-products');
+let cart = [];
 
 xhr.open('GET',url + '/products');
 xhr.responseType = 'json'
@@ -24,3 +26,7 @@ xhr.onload = function() {
     });
 }
 xhr.send();
+
+function openCart(){
+    cartProd.classList.toggle('hide');
+}
