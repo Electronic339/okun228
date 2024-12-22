@@ -4,7 +4,7 @@ let xhr = new XMLHttpRequest();
 let url = 'https://shopweb-6e1d.restdb.io/rest';
 xhr.open('GET',url + '/products');
 xhr.setRequestHeader("content-type", "application/json");
-xhr.setRequestHeader("x-apikey", "67682324e7053323fd3584e6");
+xhr.setRequestHeader("x-apikey", "67682331e7053307933584ed");
 xhr.setRequestHeader("cache-control", "no-cache");
 xhr.responseType = 'json'
 xhr.onload = function() {
