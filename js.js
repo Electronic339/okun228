@@ -1,7 +1,7 @@
 let productsGrid = document.getElementById('products-grid');
 let productsArray = [];
 let xhr = new XMLHttpRequest();
-let url = 'https://shopweb-6e1d.restdb.io/rest';
+let url = 'https://okuniara228-18db.restdb.io/rest';
 xhr.open('GET',url + '/products');
 xhr.setRequestHeader("content-type", "application/json");
 xhr.setRequestHeader("x-apikey", "67682331e7053307933584ed");
